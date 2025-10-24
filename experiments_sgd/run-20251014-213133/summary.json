@@ -1,0 +1,12 @@
+{
+  "target": "category",
+  "upsample": true,
+  "class_weight": "balanced",
+  "n_train": 20570,
+  "n_val": 1693,
+  "n_test": 2357,
+  "val_accuracy": 0.6296515062020083,
+  "val_macro_f1": 0.6285520202848326,
+  "test_accuracy": 0.6007636826474332,
+  "test_macro_f1": 0.6192165021856588
+}

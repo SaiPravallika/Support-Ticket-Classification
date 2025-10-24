@@ -1,0 +1,25 @@
+# Core ML / NLP libraries
+transformers==4.44.2
+datasets==2.21.0
+accelerate==0.34.2
+evaluate==0.4.3
+torch>=2.1.0
+scikit-learn==1.5.2
+numpy==1.26.4
+pandas==2.2.2
+
+# Text preprocessing
+spacy==3.7.4
+textblob==0.18.0
+nltk==3.9.1
+
+# Visualization & utilities
+matplotlib==3.9.2
+
+# Misc (ensure consistent hashing, reproducibility)
+tqdm==4.66.5
+joblib==1.3.2
+
+#fastapi
+fastapi 
+uvicorn

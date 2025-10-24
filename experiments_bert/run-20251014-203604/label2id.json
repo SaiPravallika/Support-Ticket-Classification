@@ -1,0 +1,12 @@
+{
+  "Billing and Payments": 0,
+  "Customer Service": 1,
+  "General Inquiry": 2,
+  "Human Resources": 3,
+  "IT Support": 4,
+  "Mobile App & UI issues": 5,
+  "Product Support": 6,
+  "Service Outages and Maintenance": 7,
+  "Technical Support": 8,
+  "Times & Attendance": 9
+}
